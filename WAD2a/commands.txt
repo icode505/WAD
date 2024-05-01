@@ -1,0 +1,26 @@
+-git bash terminal
+	
+
+   * 1st time uploading files
+	 -git init
+	 -git add index.html //select file to add github
+	 -git commit -m "my first html file"  //to add commit msg
+	 -git remote add origin url_of_repos..  //to adding online repository its only select repos
+	 -git push origin master //its upload file online
+
+
+   * Then change after cretaing repo
+	-git add style.css //select file directly
+	-git git commit -m "message to commit"
+	-git remote add origin url_of_repos..  //to adding online repository its only select repos
+	-git push origin master
+
+
+   * One time all code insert on github
+	-git init
+	-git add . //give the dot to select to all files
+	-git commit -m "commit message"
+	-git remote add origin url_of_repos..
+	-git push origin master
+
+  
